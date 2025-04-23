@@ -23,6 +23,7 @@ Të implementohet funksionaliteti bazë për regjistrimin dhe hyrjen e përdorue
 - Anila Krasniqi: Dizajnimi dhe implementimi i formularit të regjistrimit
 - Pënar Kera: Dizajnimi dhe implementimi i formularit të hyrjes
 - Rinesa Merovci: Krijimi i strukturës së databazës për përdoruesit
+  
 -Të gjithë anëtarët: Shqyrtimi dhe testimi i funksionaliteteve
 
 ## Përkufizimi i Përfundimit (Definition of Done)
