@@ -2,7 +2,7 @@
  
 
 ## Përshkrimi i Projektit
-Ky projekt synon zhvillimin e një sistemi për monitorimin e shëndetit të zemrës, duke përdorur të dhëna nga sensorët dhe mësimin e makinerive për të analizuar aktivitetin kardiak dhe për të ofruar njoftime ose diagnoza në kohë reale. Sistemi është i dizajnuar për të ndihmuar ofruesit e kujdesit shëndetësor dhe individët në zbulimin e hershëm të anomalive të lidhura me zemrën.
+Ky projekt synon krijimin e një sistemi për matjen dhe monitorimin e rrahjeve të zemrës në kohë reale, duke përdorur sensorë të specializuar dhe algoritme të thjeshta të përpunimit të të dhënave. Sistemi do të ndihmojë individët dhe profesionistët e kujdesit shëndetësor në monitorimin e aktivitetit kardiak, duke ofruar njoftime të menjëhershme në rast të rrahjeve jonormale të zemrës. Qëllimi kryesor është sigurimi i një mjeti të lehtë dhe efikas për kontrollin dhe vëzhgimin e shëndetit të zemrës në baza ditore.
 
 ## Anëtarët e Ekipit
 -Anila Krasniqi – Zhvilluese e Backend-it
