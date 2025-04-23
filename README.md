@@ -1,19 +1,20 @@
-# Heart Health Monitoring System
+# Moniturimi-i-personalizuar-i-zemres
+ 
 
-## Project Description
-This project aims to develop a heart health monitoring system that uses sensor data and machine learning to analyze cardiac activity and provide real-time alerts or diagnostics. It is designed to assist healthcare providers and individuals in early detection of heart-related anomalies.
+## Përshkrimi i Projektit
+Ky projekt synon zhvillimin e një sistemi për monitorimin e shëndetit të zemrës, duke përdorur të dhëna nga sensorët dhe mësimin e makinerive për të analizuar aktivitetin kardiak dhe për të ofruar njoftime ose diagnoza në kohë reale. Sistemi është i dizajnuar për të ndihmuar ofruesit e kujdesit shëndetësor dhe individët në zbulimin e hershëm të anomalive të lidhura me zemrën.
 
-## Team Members
-- Anila Krasniqi - Backend Developer
-- Pënar Kera - Frontend Developer
-- Rinesa Merovci - Machine Learning Specialist
+## Anëtarët e Ekipit
+-Anila Krasniqi – Zhvilluese e Backend-it
+-Pënar Kera – Zhvilluese e Frontend-it
+-Rinesa Merovci – Specialiste e Mësimit të Makinerive
 
-## How to Set Up
-Instructions will be added as development progresses.
+## Si të Vendoset (Set Up)
+Udhëzimet do të shtohen gjatë avancimit të zhvillimit.
 
-## Project Timeline
-- Week 5: Project setup and planning
-- Week 6-7: Implementation
-- Week 8: Testing
-- Week 9: Deployment
-- Week 10: Final presentation
+## Afati Kohor i Projektit
+-Java 5: Vendosja dhe planifikimi i projektit
+-Java 6–7: Zbatimi
+-Java 8: Testimi
+-Java 9: Implementimi (Deployment)
+-Java 10: Prezantimi final
