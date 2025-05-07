@@ -4,7 +4,7 @@
 Të krijohen faqet informuese kryesore të aplikacionit web për të prezantuar funksionet dhe përfitimet e sistemit “Monitorimi i personalizuar i zemrës”.
 
 ## Kohëzgjatja e Sprintit
-1 javë (5 Maj - 12 Maj, 2025)
+1 javë (23 Prill - 30 Prill, 2025)
 
 ##  Detyrat Kryesore (To Do)
 Krijimi i faqes “Si funksionon sistemi” – përshkrimi i rrjedhës së monitorimit
@@ -33,7 +33,7 @@ Të gjitha faqet janë funksionale dhe të qasshme përmes menu-së
 
 Dizajni është i thjeshtë, i kuptueshëm dhe responsive
 
-Kodi është i ngarkuar në repository (GitHub ose tjetër)
+Kodi është i ngarkuar në repository ne GitHub 
 
 Është bërë testimi bazik për funksionalitet dhe shfaqje
 
