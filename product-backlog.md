@@ -1,27 +1,55 @@
-# Lista e Kërkesave të Produktit
+Backlog për Sprintin 1
+30 Prill – 7 Maj 2025
 
-## Tregime të Përdoruesve
+Qëllimi:
+Të zhvillohen faqet kryesore informuese të aplikacionit për prezantimin e funksioneve dhe përfitimeve të sistemit "Monitorimi i personalizuar i zemrës".
 
-1. **Monitorimi në kohë reale i zemrës** - LARTË  
-   Si pacient, dua që sistemi të monitorojë rrahjet e zemrës sime në kohë reale që të mund të zbuloj probleme të mundshme sa më herët.
+Tregimet e Përdoruesve dhe Detyrat përkatëse
+1. Si përdorues, dua të kuptoj si funksionon sistemi, që të kem besim në teknologjinë që po përdor.
+Krijimi i faqes "Si funksionon sistemi"
 
-2. **Njoftime për alarme** - LARTË  
-   Si kujdestar ose mjek, dua të marr njoftime kur rrahjet e zemrës së një pacienti dalin jashtë kufijve të sigurt që të mund të reagoj menjëherë.
+Shtimi i përshkrimit të rrjedhës së monitorimit
 
-3. **Regjistrimi dhe hyrja në sistem** - LARTË  
-   Si përdorues i ri, dua të regjistrohem dhe të hyj në sistem që të kem të dhëna të personalizuara dhe të mbrojtura.
+Ilustrime ose ikona informuese
 
-4. **Panel vizualizimi të të dhënave** - LARTË  
-   Si përdorues, dua të shoh grafikisht aktivitetin e zemrës time që të kuptoj më mirë gjendjen time shëndetësore me kalimin e kohës.
+Përgjegjëse: Anila Krasniqi
 
-5. **Akses në të dhënat e kaluara** - MESATARE  
-   Si pacient, dua të shoh historikun e rrahjeve të zemrës që të mund të analizoj gjendjen time shëndetësore.
+2. Si përdorues, dua të di kush qëndron pas këtij aplikacioni, që të kem transparencë dhe siguri.
+Krijimi i faqes “Rreth Nesh”
 
-6. **Eksportimi i raporteve shëndetësore** - MESATARE  
-   Si përdorues, dua të eksportoj të dhënat e zemrës në format PDF ose CSV që t’i ndaj me mjekun tim.
+Prezantimi i ekipit zhvillues dhe misionit
 
-7. **Ndërfaqe për komente nga mjekët** - MESATARE  
-   Si mjek, dua të komentoj mbi raportet e pacientëve që të jap vlerësime dhe këshilla përmes sistemit.
+Përgjegjëse: Pënar Kera
 
-8. **Integrimi me pajisje të veshshme** - ULËT  
-   Si pacient, dua që aplikacioni të lidhet me pajisje të veshshme (si ora inteligjente) që të mbledh automatikisht të dhënat e zemrës.
+3. Si përdorues, dua të di përfitimet e sistemit, që të më bindë ta përdor.
+Krijimi i faqes “Përfitimet”
+
+Sqarimi i avantazheve për pacientët dhe mjekët
+
+Përgjegjëse: Rinesa Merovci
+
+4. Si përdorues, dua të kuptoj si bëhet matja e rrahjeve të zemrës, që të di çfarë të pres nga sistemi.
+Krijimi i faqes “Matja e Zemrës”
+
+Përshkrim informues ose demo bazike
+
+Përgjegjëse: Anila Krasniqi
+
+5. Si përdorues, dua të kem mundësi të kontaktoj zhvilluesit për pyetje apo probleme.
+Krijimi i faqes “Kontakti”
+
+Shtimi i formës për kontakt ose informacionit kontaktues
+
+Përgjegjëse: Pënar Kera
+
+6. Si përdorues, dua që faqet të jenë të dizajnuara bukur dhe të përshtatshme për çdo pajisje.
+Dizajnimi i elementeve responsive dhe harmonizimi i stilit vizual
+
+Përgjegjëse: Rinesa Merovci
+
+Detyra të përbashkëta për të gjithë ekipin
+Testimi i faqeve dhe navigimit
+
+Shqyrtimi dhe aprovimi i faqeve nga një anëtar tjetër
+
+Ngarkimi i kodit në repository (GitHub)
