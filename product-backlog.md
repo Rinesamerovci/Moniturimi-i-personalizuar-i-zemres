@@ -1,6 +1,7 @@
 Backlog për Sprintin 1
 
-30 Prill – 7 Maj 2025
+Kohëzgjatja e Sprintit
+1 javë (30 Prill – 7 Maj 2025)
 
 Qëllimi:
 Të zhvillohen faqet kryesore informuese të aplikacionit për prezantimin e funksioneve dhe përfitimeve të sistemit "Monitorimi i personalizuar i zemrës".
