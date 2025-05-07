@@ -1,22 +1,46 @@
+# Plani i Sprintit 2 - Monitorimi i Personalizuar i Zemrës
 
-# Monitorimi i Personalizuar i Zemrës
+## Qëllimi i Sprintit
+Implementimi i funksionaliteteve për aksesin në të dhënat e kaluara, eksportimin e raporteve shëndetësore, dhe ndërfaqen për komente nga mjekët. Gjithashtu, do të fokusohemi në integrimin me pajisje të veshshme për mbledhjen automatike të të dhënave të zemrës.
 
-## Përshkrimi i Projektit
-Ky projekt ka për qëllim monitorimin e rrahjeve të zemrës në kohë reale dhe vizualizimin e të dhënave përmes dashboard-it.
+## Kohëzgjatja e Sprintit
+1 javë (13 Maj - 19 Maj, 2025)
 
-## Anëtarët e Ekipit
-- **Anila Krasniqi** - Dizajner dhe Zhvillues i Dashboard-it
-- **Pënar Kera** - Zhvillues i Backend dhe Integrim i të Dhënave
-- **Rinesa Merovci** – Testues dhe Dokumentues
+## Tregimet e Përdoruesit të Zgjedhura
 
-## Si të Konfiguroni
-Instruksione do të shtohen siç përparon zhvillimi.
+### 1. Akses në të dhënat e kaluara (Mesatare)
+Si pacient, dua të shoh historikun e rrahjeve të zemrës që të mund të analizoj gjendjen time shëndetësore.
 
-## Plani i Projektit
-- **Java 5**: Cilësimi dhe planifikimi i projektit
-- **Java 6-7**: Zhvillimi i funksionaliteteve (Sprint 1)
-- **Java 8**: Testimi (Sprint 2)
-- **Java 9**: Publikimi dhe prezantimi final
+### 2. Eksportimi i raporteve shëndetësore (Mesatare)
+Si përdorues, dua të eksportoj të dhënat e zemrës në format PDF ose CSV që t’i ndaj me mjekun tim.
 
-## Sprint 2 Detajet
-Në këtë sprint do të implementojmë dhe testojmë funksionalitetet për dashboard, monitorimin e rrahjeve të zemrës dhe mundësitë e raportimit të të dhënave.
+### 3. Ndërfaqe për komente nga mjekët (Mesatare)
+Si mjek, dua të komentoj mbi raportet e pacientëve që të jap vlerësime dhe këshilla përmes sistemit.
+
+### 4. Integrimi me pajisje të veshshme (Ulët)
+Si pacient, dua që aplikacioni të lidhet me pajisje të veshshme (si ora inteligjente) që të mbledh automatikisht të dhënat e zemrës.
+
+## Detyrat e Anëtarëve të Ekipit
+
+### Anila Krasniqi:
+- Implementimi i panelit për shfaqjen e të dhënave të kaluara të zemrës.
+- Dizajnimi i ndërfaqes për eksportimin e raporteve shëndetësore (PDF/CSV).
+
+### Pënar Kera:
+- Zhvillimi i funksionalitetit për eksportimin e të dhënave të zemrës në PDF dhe CSV.
+- Implementimi i integrimit me pajisje të veshshme për mbledhjen automatike të të dhënave të zemrës.
+
+### Rinesa Merovci:
+- Testimi i funksionalitetit të aksesit në të dhënat e kaluara dhe eksportimit të raporteve.
+- Dokumentimi i mënyrës se si mund të përdoren këto funksionalitete nga përdoruesit dhe mjekët.
+
+### Të gjithë anëtarët:
+- Shqyrtimi dhe testimi i funksionaliteteve të implementuara.
+- Sigurimi i cilësisë dhe dokumentimi për përdoruesit.
+
+## Përkufizimi i Përfundimit (Definition of Done)
+
+- Kodi është i ngarkuar në repository.
+- Funksionaliteti punon në një mjedis testimi.
+- Të paktën një anëtar tjetër i ekipit ka shqyrtuar kodin.
+- Është shkruar dokumentacioni për funksionalitetet e implementuara
