@@ -4,7 +4,7 @@
 Të implementohet funksionaliteti bazë për regjistrimin dhe hyrjen e përdoruesve.
  
 ## Kohëzgjatja e Sprintit
-1 javë (1 Maj - 14 Maj, 2025)
+1 javë (7 Maj - 14 Maj, 2025)
  
 ## Tregimet e Përdoruesit të Zgjedhura
 1. **Regjistrimi i Përdoruesit** (LARTË)
