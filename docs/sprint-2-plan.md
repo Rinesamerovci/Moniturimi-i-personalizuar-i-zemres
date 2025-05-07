@@ -67,4 +67,4 @@ Implementimi i funksionaliteteve për aksesin në të dhënat e kaluara, eksport
 - Kodi është i ngarkuar në repository.
 - Funksionaliteti punon në një mjedis testimi.
 - Të paktën një anëtar tjetër i ekipit ka shqyrtuar kodin.
-- Është shkruar dokumentacioni për funksionalitetet e implementuara
+- Është shkruar dokumentacioni për funksionalitetet e implementuara.
