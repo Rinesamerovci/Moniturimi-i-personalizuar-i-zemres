@@ -1,6 +1,7 @@
 Backlog për Sprintin 1
 
 Kohëzgjatja e Sprintit
+
 1 javë (30 Prill – 7 Maj 2025)
 
 Qëllimi:
